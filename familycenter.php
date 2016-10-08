@@ -30,48 +30,80 @@
 		<!-- Home -->
 		
 		
-				<br/><br/><br/>
-				<center><h1> Events Nearby </h1></center>
-				
-				
-				
-		
-					
-					
+				<br /><br /><br />
+				<h1><center> Family Center </center></h1>
 
-		<div id="section1" class="container-fluid text-center " >
+		<div id="section14" class="container-fluid text-center ">
+			<br /><br /><br />
 			<center><h3>Embedded Google Calendar with entries of "suggested" local events</center></h3>
-			<iframe src="https://calendar.google.com/calendar/embed?src=acceleratede1%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+			<iframe src="https://calendar.google.com/calendar/embed?src=accdel30%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+			<br /><br /><br /><br /><br /><br />
 		</div>
 		
-		<center><h1>Food</center></h1><br />
 		
-		
-		<div id="section10" class="container-fluid text-center" >
-			<div id="advertisement" class="container-fluid">
-				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Facceleratedelaware%2Fposts%2F1194443137242569&width=500" width="500" height="457" style="border:none;background-color:white;opacity:1.0;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-			</div>
-			<br/><br/><br/><br/><br/>
+		<div class="row">
+			<span class="subheader" style="color: black; align="center"><center>Endorsed Family - Positive:</center></span>
+					<center>
+						<div class="col-md-12 col-sm-12 ">
+							
+							<br />
+							<br />
+							<select>
+								  <option value="volvo">Wilmington</option>
+								  <option value="saab">Lewes</option>
+								  <option value="opel">Dover</option>
+								  <option value="audi">Newark</option>
+							</select>
+						</div>
+					</center>
 		</div>
-		<br /><br />
-		<center><h1>Night Life</center></h1><br />
-		<br /><br />
-		<div id="section12" class="container-fluid text-center"  >
-			<div id="nightlife" class="container-fluid">
-			<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Facceleratedelaware%2Fposts%2F1202813223072227&width=500" width="500" height="627" style="border:none;background-color:white;overflow:hidden;opacity:1.0" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-			</div>
-			<br/>
+		</br>
+		</br>
+		</br>
+		<div class="row">
+					<center>
+						<div class="col-md-4 col-sm-2">	
+						</div>
+						<div class="col-md-4 col-sm-8">		
+							<div class="list-group">
+								<a href="#" class="list-group-item active">
+									Top 3 Daycares
+								</a>
+								<a href="#" class="list-group-item">Little Folks Too Daycare</a>
+								<a href="#" class="list-group-item">Child Care Center</a>
+								<a href="#" class="list-group-item">Di's Daycare'</a>
+								
+								<p></p>
+								
+								<a href="#" class="list-group-item active">
+									Top 3 Schools
+								</a>
+								<a href="#" class="list-group-item">Lewis Language Elementary School</a>
+								<a href="#" class="list-group-item">Warner Elementary School</a>
+								<a href="#" class="list-group-item">Bancroft Elementary School</a>
+								
+								<p></p>
+								
+								<a href="#" class="list-group-item active">
+									Top 3 Sports Programs
+								</a>
+								<a href="#" class="list-group-item">Senior Squirts</a>
+								<a href="#" class="list-group-item">Tower Hill Day Camp</a>
+								<a href="#" class="list-group-item">Raiders Sports</a>
+								
+								<p></p>
+								
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-2">	
+						</div>
+					</center>
 		</div>
 		
-		<br/><br/><br/><br/>
-		<center><h1>Networking</center></h1>
+		</br>
+		</br>
+		</br>
 		
-		<div id="section13" class="container-fluid text-center" ><br/><br/><br/><br/><br/><br/>
-			<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Facceleratedelaware%2Fposts%2F1176217632398453%3A0&width=500" width="500" height="685" style="border:none;background-color:white;width:auto;overflow:hidden;opacity:1.0" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-			<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-		</div>
-
 
 				
 			

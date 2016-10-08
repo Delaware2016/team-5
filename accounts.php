@@ -23,7 +23,34 @@
 	<body>
 		
 		<!-- NavBar -->
-		<?php include 'preloginNavbar.php';?>
+		<nav class="navbar navbar-fixed-top navbar-inverse">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						  </button>
+						<a class="navbar-brand" href="#">
+							<p class="navbar-crookedwarden"></p>
+						</a>
+					</div>
+					<div id="navbar" class="collapse navbar-collapse">
+						<ul class="nav navbar-nav">
+							<li class="active"><a href="#">HOME</a></li>
+							<li><a href="#section2"> BISY BACKSON</a></li>
+							<li><a href="#section3">THE MAN</a></li>
+							<li class="hidden-xs"><a href="#section3">RELEASES</a></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#section5"><span class="glyphicon glyphicon-share"></span> CONNECT</a></li>
+							<li><a href="#section6"><span class="glyphicon glyphicon-user"></span> SIGN UP</a></li>
+							<!-- <li><a href="#section7"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li> -->
+						</ul>
+					</div><!-- /.nav-collapse -->
+				</div><!-- /.container -->
+		</nav><!-- /.navbar -->
 	
 		
 		

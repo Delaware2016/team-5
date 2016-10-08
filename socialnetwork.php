@@ -29,7 +29,7 @@
 		
 		<!-- Home -->
 		<div id="sectionOnly1" class="container-fluid  gradient" background="">
-			<span class="header">
+			<span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
 			
 				<center> ADE's<br/><center>Exclusive Social Network</center></center>
 					
@@ -94,7 +94,7 @@
 						</br>
 						</br>
 						</br>
-					<span class="subheader	" style="color: white;">Edit your profile:</span>
+					<span class="subheader" style="color: white;">Edit your profile:</span>
 						</br>
 						</br>
 						<div class="row">

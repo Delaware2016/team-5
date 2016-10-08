@@ -22,8 +22,8 @@ echo '
 							<li><a href="familycenter.php">FAMILY CENTER</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<!-- <li><a href="#section6"><span class="glyphicon glyphicon-user"></span> SIGN UP</a></li> -->
-							<!-- <li><a href="#section7"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li> -->
+							<!-- <li><a href="accounts.php"><span class="glyphicon glyphicon-user"></span> SIGN UP</a></li>  -->
+							<li><a href="index.php"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li>
 						</ul>
 					</div><!-- /.nav-collapse -->
 				</div><!-- /.container -->

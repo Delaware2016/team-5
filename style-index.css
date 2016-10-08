@@ -33,16 +33,19 @@ a:hover {
 #section1 {padding-top:100px;height:100%;color: #fff; background-image: url(background1.jpg); background-position: center center;background-repeat: no-repeat;/*#6D95C2;*/padding-bottom: 100px;} 				/* Home */
 #section2 {padding-top:100px;height:800px;color: #fff; background-color: #E5EBEF;padding-bottom: 100px;} 					/* Bisy Backson */
 #section3 {padding-top:50px;height:100%;color: #fff; background-color: #FFFFFF;padding-bottom: 50px;} 						/* Bio */
-#section4 {padding-top:100px;height:100%; color: #fff; background-color: #c9d6dd;padding-bottom: 100px;}				/* Releases */ /*#FCF4E6*/
+#section4 {height:100%; width:100%; color: #fff; background-color: #c9d6dd;}				/* Releases */ /*#FCF4E6*/
 #section5 {padding-top:10px;height:100%;color: #fff; background-color: #A09D9A;padding-bottom: 10px;} 					/* Connect */  
 #section6 {padding-top:50px;height:100%;color: #fff; background-color: #81b0ab;padding-bottom: 50px;} 					/* Sign Up */   /*#E1E9F2*/
 /*#section7 {padding-top:100px;height:500px;color: #fff; background-color: #81b0ab;padding-bottom: 100px;} 				/* Login */
-
 #section7 {padding-top:100px;color: #fff; background-image: url(prof2.jpg);background-position: center center;background-size: auto; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
 #section8 {padding-top:100px;color: #fff; background-image: url(downtown.jpg);background-position: center center; background-size: auto; background-repeat: no-repeat;/*#6D95C2;*/padding-bottom: 100px;}
 #section9 {padding-top:100px;color: #fff; background-image: url(family.jpg);background-position: center center;background-size: auto; background-repeat: no-repeat;/*#6D95C2;*/padding-bottom: 100px;}
 #section10 {padding-top:100px;color: #fff; background-image: url(food.jpg);background-position: center center;background-size: auto; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
 #section11 {padding-top:100px;color: #fff; background-image: url(events.jpg);background-position: center center;background-size: auto; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
+#section12 {padding-top:100px;color: #fff; background-image: url(nightlife.jpg);background-position: center center;background-size: auto; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
+#section13 {padding-top:100px;color: #fff; background-image: url(Networking.jpg);background-position: center center;background-size: 100% 75%; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
+#section14 {padding-top:100px;color: #fff; background-image: url(familyCenterBackground.jpg);background-position: center center;background-size: 100% 75%; background-repeat: no-repeat; /*#6D95C2;*/padding-bottom: 100px;}
+
 
 /* testing */
 

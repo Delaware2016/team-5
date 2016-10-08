@@ -11,6 +11,8 @@
 		<link href='https://fonts.googleapis.com/css?family=Nosifer' rel='stylesheet' type='text/css'>
 		<link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
 		<link rel='stylesheet' href='style-index.css' />
+		<link rel='stylesheet' href='team5Font.css' />
+		<link rel='stylesheet' href='inputbox.css' />
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
@@ -33,12 +35,12 @@
 	<body>
 		
 		<!-- NavBar -->
-		<?php include 'navbar.php';?>
+		<?php include 'preloginNavbar.php';?>
+	
 	
 		
-		
 		<!-- Home -->
-		<div id="section1" class="container-fluid text-center " >
+		<div id="section1" class="container-fluid text-center " style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
 			<!-- 
 			<a href="https://crookedwarden.bandcamp.com/album/bisy-backson-ep" target="_blank" class="epLink releases">
 				<h2>&#9834 BISY asdsad &#9834</h2>
@@ -46,29 +48,27 @@
 				<img class="img-responsive center-block " src="crookedwardenlogo.png" width="400" height="auto">
 			</a>
 			-->
-			<h1>
-				Welcome to Accelerate Delaware
+			<span class="header">Welcome to Accelerate Delaware</span>
 				<br />
-				<h3>Social Networking for Professionals</h3>
-			</h1>
+				<span class="subsubheader">Social Networking for Professionals</span>
 				<br /><br /><br /><br />
-					<p style="font-size: 36px; color: white;">Sign In</p>
+					<span class="subheader">Sign In</span>
 					<!--<p style="font-size: 16px; color: #d6d6d6;">Important News</p>-->
 					<br>
 					<form style="color: black;" class="form" role="form"  method="post"> 
 						<!--<label id="icon" for="name"><i class="icon-envelope "></i></label>-->
-						<input type="text" name="email" id="name" placeholder="Username" required/>
+						<input class="inputbox" type="text" name="email" id="name" placeholder="Username" required/>
 						<br>
 							<span> </span>
 						<br>
 						<!--<label id="icon" for="name"><i class="icon-user"></i></label>-->
-						<input type="text" name="name" id="name" placeholder="Password" required/>
+						<input class="inputbox" type="text" name="name" id="name" placeholder="Password" required/>
 						<br>
 							<span>  </span>
 						<br>
 						<!-- <a href="process.php" name="submit" class="button">Register</a> -->
 						<input type="submit" class="button" value="Login"> <!-- sends to database -->
-						<p style="font-size: 18px; color: white;">New user? <a  href="homepage.html" color="#FF0000">Click here</a>
+						<p style="font-size: 18px; color: white;">New user? <a  href="homepage.html" color="#ffff00"><span style="color:yellow">Click here</span></a>
 						
 						<br>
 						<p> </p>
@@ -143,22 +143,21 @@
 	
 	
 		<!-- Start carousel -->
-
-		<br/><br/><br/><br/><br/><br/>
+<div id="section4" class="container-fluid">
 		
-	<div id="myCarousel" class=" slide" data-interval="3000" data-ride="carousel">
+	<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
       <!-- Carousel indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
+
 	
         </ol>   
 		
        <!-- Carousel items -->
         <div class="carousel-inner">
             <div class="active item" style="cursor: pointer;" onclick="window.location='gullCode.php';">
-              <img class="img-rounded"  src="guysHandshaking.jpg" align="center"width="450" height="450"></img>
+              <img class="img-rounded img-responsive center-block"  src="guysHandshaking.jpg" align="center"width="450" height="450"></img>
                 <div class="carousel-caption">
 				  <br/><br/><br/><br/>
                   <h2>Success Stories</h2>
@@ -169,20 +168,14 @@
 
 			
            <div class="item" style="cursor: pointer;" onclick="window.location='whatsNew.php';">
-              <img class="img-rounded"  src="ladiesLaughing.jpg" width="450" height="450"></img>
+              <img class="img-rounded img-responsive center-block"  src="ladiesLaughing.jpg" width="450" height="450"></img>
 			   
                 <div class="carousel-caption">
                   <h2>Club Events</h2>
                   <p>Hang out with your classmates in a fun social atmosphere!</p>
                 </div>
             </div>
-            <div class="item" style="cursor: pointer;" onclick="window.location='skills.php';">
-              <img class="img-rounded"  src="couple.jpg"></img>
-                <div class="carousel-caption">
-                  <h2>Skill Enhancers</h2>
-                  <p>Stay up to date with new technologies and practice rusty skills!</p>
-                </div>
-            </div>
+            
 			
           
 			
@@ -196,7 +189,7 @@
             <span class="glyphicon glyphicon-chevron-right"></span>
         </a>
     </div>
-	
+	</div>
 			
 		<!--
 		<div id="section4" class="container-fluid hidden-xs">

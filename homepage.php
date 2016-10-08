@@ -11,6 +11,7 @@
 		<link href='https://fonts.googleapis.com/css?family=Nosifer' rel='stylesheet' type='text/css'>
 		<link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
 		<link rel='stylesheet' href='style-index.css' />
+		<link rel='stylesheet' href='team5Font.css' />
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
@@ -48,7 +49,7 @@
 			-->
 
 			
-			<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/socialnetwork.php" style="font-size: 36px"> Social Network </a>
+			<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/socialnetwork.php" style="font-size: 36px"><span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;"> Social Network </span></a>
 			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 			
 			<!--
@@ -101,7 +102,7 @@
 		
 		<!-- Bio (The Man) -->
 		<div id="section8" class="container-fluid text-left">
-				<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/eventsnearby.php" style="font-size: 36px"> Events Nearby </a>
+				<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/eventsnearby.php" style="font-size: 36px"><span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">  Events Nearby </span></a>
 				<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 					
@@ -143,7 +144,7 @@
 		<!-- Start carousel -->
 	
 <div id="section9" class="container-fluid text-left">
-		<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/familyactivities.php" style="font-size: 36px">Family Activities </a>
+		<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/familyactivities.php" style="font-size: 36px"><span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;"> Family Activities </span></a>
 		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 		
 	
