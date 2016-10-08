@@ -55,113 +55,31 @@
 		
 		
 		<!-- Home -->
-		<div id="sectionOnly1" class="container-fluid  gradient" background="">
-			<span class="header">
-			
-				<center> ADE's<br/><center>Exclusive Social Network</center></center>
+		
+		
+				<br/><br/><br/>
+				<center><h1> Events Nearby </h1></center>
+				<br/><br/>
+		
+					
 					
 
-			</span>
-				<br />
-					<p class="subheader" style="color: white;">Find other Professionals:</p>
-					<br>
-					<form style="color: black;" class="form" role="form"  method="post"> 
-						Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<select>
-						  <option value="volvo">Wilmington</option>
-						  <option value="saab">Waldorf</option>
-						  <option value="opel">Salisbury</option>
-						  <option value="audi">ETC</option>
-						</select>
-						<br>
-						
-						
-							<span> </span>
-						<br>
-						
-						Career Field:&nbsp;
-						
-						<select>
-						  <option value="volvo">Technology</option>
-						  <option value="saab">Education</option>
-						  <option value="opel">Automotive</option>
-						  <option value="audi">Military</option>
-						</select>
-						<br />
-							<span>  </span>
-						<br/>
-						
-							<span> </span>
-					
-						Alma Mater:&nbsp;
-						
-						<select>
-						  <option value="volvo">Salisbury</option>
-						  <option value="saab">UD</option>
-						  <option value="opel">College Park</option>
-						  <option value="audi">Yale</option>
-						</select>
-							
-						
-						<!-- friendsList.jpg -->
-						
-					
-							
-						</br>
-						</br>
-						</br>
-						</br>
-					<p class="subheader	" style="color: white;">Edit your profile:</p>
-						</br>
-						</br>
-						<div class="row">
-							<div class="col-sm-12 col-md-4">
-								<img  src="profilepic.jpg" width="350" height="350" style="margin: 0 auto;">  
-							</div>
-							<div class="col-sm-12 col-md-4">
-								<br /><br /><br /><br /><br />Hello, my name is John Doe.  I'm looking to meet other Business Professionals, and I<br /> heard Accelerate Delaware would be perfect for me! I would like to meet up with <br /> millenials to expand my horizon in Wilmington. <br/><br/>	 Interests: <br/> Music, Technology, Education
-								</div>
-							<div class="col-sm-12 col-md-4">
-								
-								</br>
-								
-								</br>
-							</div>
-						</div>
-
-
-</br>
-						</br>
-						</br>
-						</br>
-						
-						</br>
-						</br>
-						<div class="row">
-							
-								</br>
-								
-								</br>
-								
-								</br>
-							</div>
-						</div>
-
-
-
-						</br>
-						</br>
-						</br>
-						<input type="submit" class="button" value="Edit Profile">
-						<br>
-						<p> </p>
-						<!--
-						<label id="icon" for="name"><i class="icon-shield"></i></label>
-						<input type="password" name="name" id="name" placeholder="Password" required/>
-						-->
-					</form>
-			
+		<div id="section1" class="container-fluid text-center " >
+			<center><h3>Embedded Google Calendar with entries of "suggested" local events</center></h3>
+			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 		</div>
+		
+		<div id="section10" class="container-fluid text-center " >
+			<center><h3>Food</center></h3>
+			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+		</div>
+		<div id="section11" class="container-fluid text-center " >
+			<center><h3>City Events</center></h3>
+			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+		</div>
+				
+			
+		
 		<!-- Bisy Backson (Bandcamp) -->
 		<!-- hidden-xs -->
 		<!-- 
