@@ -55,40 +55,53 @@
 		
 		
 		<!-- Home -->
-		<div id="sectionOnly1" class="container-fluid text-center gradient" background="">
+		<div id="sectionOnly1" class="container-fluid  gradient" background="">
 			<span class="header">
-				 Create an Account
-				<br />
+			
+				<center> ADE's<br/><center>Exclusive Social Network</center></center>
+					
 
 			</span>
-				<br /><br /><br /><br />
-					<p class="subheader" style="color: white;">Please Enter:</p>
+				<br />
+					<p class="subheader" style="color: white;">Find other Professionals:</p>
 					<br>
 					<form style="color: black;" class="form" role="form"  method="post"> 
-						<input type="text" name="email" id="name" placeholder="Username" required/>
+						Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<select>
+						  <option value="volvo">Wilmington</option>
+						  <option value="saab">Waldorf</option>
+						  <option value="opel">Salisbury</option>
+						  <option value="audi">ETC</option>
+						</select>
 						<br>
+						
+						
 							<span> </span>
 						<br>
-						<input type="text" name="name" id="name" placeholder="Password" required/>
-						<br>
+						
+						Career Field:&nbsp;
+						
+						<select>
+						  <option value="volvo">Technology</option>
+						  <option value="saab">Education</option>
+						  <option value="opel">Automotive</option>
+						  <option value="audi">Military</option>
+						</select>
+						<br />
 							<span>  </span>
-						<br>
-						<input type="text" name="email" id="name" placeholder="Confirm pass" required/>
-						<br>
+						<br/>
+						
 							<span> </span>
-						<br>
-						<input type="text" name="email" id="name" placeholder="Employer" required/>
-						<br>
-							<span> </span>
-						<br>
-						<input type="text" name="email" id="name" placeholder="Job Title" required/>
-						<br>
-							<span> </span>
-						<br>
-						<input type="text" name="email" id="name" placeholder="Location" required/>
-						<br>
-							<span> </span>
-						<br>
+					
+						Alma Mater:&nbsp;
+						
+						<select>
+						  <option value="volvo">Salisbury</option>
+						  <option value="saab">UD</option>
+						  <option value="opel">College Park</option>
+						  <option value="audi">Yale</option>
+						</select>
+							
 						
 						
 						
@@ -98,7 +111,7 @@
 						</br>
 						</br>
 						</br>
-						<p class="subheader" style="color: white;">Interests:</p>
+					<p class="subheader	" style="color: white;">Edit your profile:</p>
 						</br>
 						</br>
 						<div class="row">
