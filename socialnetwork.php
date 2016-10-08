@@ -22,36 +22,9 @@
 	</head>
 	<body>
 		
+
 		<!-- NavBar -->
-		<nav class="navbar navbar-fixed-top navbar-inverse">
-				<div class="container-fluid">
-					<div class="navbar-header">
-						  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						  </button>
-						<a class="navbar-brand" href="#">
-							<p class="navbar-crookedwarden"></p>
-						</a>
-					</div>
-					<div id="navbar" class="collapse navbar-collapse">
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">HOME</a></li>
-							<li><a href="#section2"> BISY BACKSON</a></li>
-							<li><a href="#section3">THE MAN</a></li>
-							<li class="hidden-xs"><a href="#section3">RELEASES</a></li>
-						</ul>
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#section5"><span class="glyphicon glyphicon-share"></span> CONNECT</a></li>
-							<li><a href="#section6"><span class="glyphicon glyphicon-user"></span> SIGN UP</a></li>
-							<!-- <li><a href="#section7"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li> -->
-						</ul>
-					</div><!-- /.nav-collapse -->
-				</div><!-- /.container -->
-		</nav><!-- /.navbar -->
-	
+		<?php include 'navbar.php';?>
 		
 		
 		<!-- Home -->
@@ -63,55 +36,65 @@
 
 			</span>
 				<br />
-					<p class="subheader" style="color: white;">Find other Professionals:</p>
-					<br>
-					<form style="color: black;" class="form" role="form"  method="post"> 
-						Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<select>
-						  <option value="volvo">Wilmington</option>
-						  <option value="saab">Waldorf</option>
-						  <option value="opel">Salisbury</option>
-						  <option value="audi">ETC</option>
-						</select>
-						<br>
-						
-						
-							<span> </span>
-						<br>
-						
-						Career Field:&nbsp;
-						
-						<select>
-						  <option value="volvo">Technology</option>
-						  <option value="saab">Education</option>
-						  <option value="opel">Automotive</option>
-						  <option value="audi">Military</option>
-						</select>
-						<br />
-							<span>  </span>
-						<br/>
-						
-							<span> </span>
+				<div class="jumbotron">
+				
+					<div class="row">
+						<div class="col-md-4 col-sm-12">
 					
-						Alma Mater:&nbsp;
-						
-						<select>
-						  <option value="volvo">Salisbury</option>
-						  <option value="saab">UD</option>
-						  <option value="opel">College Park</option>
-						  <option value="audi">Yale</option>
-						</select>
+							<span class="subheader" style="color: white;">Find other Professionals:</span>
+							</br>
+							</br>
+							<form style="color: black;" class="form" role="form"  method="post"> 
+								<span class="subsubheader">Location:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+								<select>
+								  <option value="volvo">Wilmington</option>
+								  <option value="saab">Waldorf</option>
+								  <option value="opel">Salisbury</option>
+								  <option value="audi">ETC</option>
+								</select>
+								<br>
+								
+								
+									<span> </span>
+								<br>
+								
+								<span class="subsubheader">Career Field:&nbsp;</span>
+								
+								<select>
+								  <option value="volvo">Technology</option>
+								  <option value="saab">Education</option>
+								  <option value="opel">Automotive</option>
+								  <option value="audi">Military</option>
+								</select>
+								<br />
+									<span>  </span>
+								<br/>
+								
+									<span> </span>
 							
-						
-						<!-- friendsList.jpg -->
-						
-					
+								<span class="subsubheader">Alma Mater:&nbsp;</span>
+								
+								<select>
+								  <option value="volvo">Salisbury</option>
+								  <option value="saab">UD</option>
+								  <option value="opel">College Park</option>
+								  <option value="audi">Yale</option>
+								</select>
+								</br>
+								</br>
+								</br>
+						</div>
+						<div class="col-md-8 col-sm-12">		
+								<img  src="friendsList.jpg" width="550" height="300" style="margin: 0 auto;"> 
+						</div>
+					</div>
+				</div>
 							
 						</br>
 						</br>
 						</br>
 						</br>
-					<p class="subheader	" style="color: white;">Edit your profile:</p>
+					<span class="subheader	" style="color: white;">Edit your profile:</span>
 						</br>
 						</br>
 						<div class="row">
@@ -119,8 +102,10 @@
 								<img  src="profilepic.jpg" width="350" height="350" style="margin: 0 auto;">  
 							</div>
 							<div class="col-sm-12 col-md-4">
-								<br /><br /><br /><br /><br />Hello, my name is John Doe.  I'm looking to meet other Business Professionals, and I<br /> heard Accelerate Delaware would be perfect for me! I would like to meet up with <br /> millenials to expand my horizon in Wilmington. <br/><br/>	 Interests: <br/> Music, Technology, Education
-								</div>
+								<span class="paragraph">
+									<br /><br /><br /><br /><br />Hello, my name is John Doe.  I'm looking to meet other Business Professionals, and I<br /> heard Accelerate Delaware would be perfect for me! I would like to meet up with <br /> millenials to expand my horizon in Wilmington. <br/><br/>	 Interests: <br/> Music, Technology, Education
+								</span>
+							</div>
 							<div class="col-sm-12 col-md-4">
 								
 								</br>
