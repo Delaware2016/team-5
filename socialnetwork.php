@@ -116,47 +116,15 @@
 						</br>
 						<div class="row">
 							<div class="col-sm-12 col-md-4">
-								<span class="subsubheader">Music:</span>
-								</br>
-								<span class="paragraph">
-									<label class="checkbox-inline"><input type="checkbox" value="">Rock</label>
-									</br>
-									<label class="checkbox-inline"><input type="checkbox" value="">Country</label>
-									</br>
-									<label class="checkbox-inline"><input type="checkbox" value="">Hip Hop</label>
-									</br>
-									<label class="checkbox-inline"><input type="checkbox" value="">Pop</label>
-									</br>
-									<label class="checkbox-inline"><input type="checkbox" value="">Electronic</label>
-								</span>
-								</br>
+								<img  src="profilepic.jpg" width="350" height="350" style="margin: 0 auto;">  
 							</div>
 							<div class="col-sm-12 col-md-4">
-								<span class="subsubheader">Food:</span>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Seafood</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Chinese</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Mexican</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">GastroPub</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Vegan</label>
-								</br>
-							</div>
+								<br /><br /><br /><br /><br />Hello, my name is John Doe.  I'm looking to meet other Business Professionals, and I<br /> heard Accelerate Delaware would be perfect for me! I would like to meet up with <br /> millenials to expand my horizon in Wilmington. <br/><br/> Interests: <br/> Music, Technology, Education
+								</div>
 							<div class="col-sm-12 col-md-4">
-								<span class="subsubheader">Entertainment:</span>
+								
 								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Concerts</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Sports</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Comedy</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Theater</label>
-								</br>
-								<label class="checkbox-inline"><input type="checkbox" value="">Street Performance</label>
+								
 								</br>
 							</div>
 						</div>
@@ -166,28 +134,11 @@
 						</br>
 						</br>
 						</br>
-						<p class="subheader paragraph" style="color: white;">Link Your Social Media Accounts:</p>
+						
 						</br>
 						</br>
 						<div class="row">
-							<div class="col-sm-12 col-md-4">
-								Music:
-								</br>
-								
-								</br>
-									
-								</br>
-							</div>
-							<div class="col-sm-12 col-md-4">
-								Food:
-								</br>
-								
-								</br>
-								
-								</br>
-							</div>
-							<div class="col-sm-12 col-md-4">
-								Entertainment:
+							
 								</br>
 								
 								</br>
@@ -201,7 +152,7 @@
 						</br>
 						</br>
 						</br>
-						<input type="submit" class="button" value="Create Profile">
+						<input type="submit" class="button" value="Edit Profile">
 						<br>
 						<p> </p>
 						<!--
