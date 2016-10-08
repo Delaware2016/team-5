@@ -144,7 +144,7 @@
 		<!-- Start carousel -->
 	
 <div id="section9" class="container-fluid text-left">
-		<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/familyactivities.php" style="font-size: 36px"><span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;"> Family Activities </span></a>
+		<a href="http://ec2-54-86-167-75.compute-1.amazonaws.com/familycenter.php" style="font-size: 36px"><span class="header" style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;"> Family Center </span></a>
 		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 		
 	

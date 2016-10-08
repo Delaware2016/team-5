@@ -13,7 +13,8 @@
 		<link rel='stylesheet' href='style-index.css' />
 		<link rel='stylesheet' href='accounts.css' />
 		<link rel='stylesheet' href='team5Font.css' />
-		
+		<link rel='stylesheet' href='labelLeftAlign.css' />
+
 		
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet">
 		<meta name="msapplication-TileColor" content="#ffffff">
@@ -23,34 +24,7 @@
 	<body>
 		
 		<!-- NavBar -->
-		<nav class="navbar navbar-fixed-top navbar-inverse">
-				<div class="container-fluid">
-					<div class="navbar-header">
-						  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						  </button>
-						<a class="navbar-brand" href="#">
-							<p class="navbar-crookedwarden"></p>
-						</a>
-					</div>
-					<div id="navbar" class="collapse navbar-collapse">
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">HOME</a></li>
-							<li><a href="#section2"> BISY BACKSON</a></li>
-							<li><a href="#section3">THE MAN</a></li>
-							<li class="hidden-xs"><a href="#section3">RELEASES</a></li>
-						</ul>
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#section5"><span class="glyphicon glyphicon-share"></span> CONNECT</a></li>
-							<li><a href="#section6"><span class="glyphicon glyphicon-user"></span> SIGN UP</a></li>
-							<!-- <li><a href="#section7"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li> -->
-						</ul>
-					</div><!-- /.nav-collapse -->
-				</div><!-- /.container -->
-		</nav><!-- /.navbar -->
+		<?php include 'accountsNavbar.php';?>
 	
 		
 		
@@ -157,33 +131,32 @@
 						</br>
 						</br>
 						</br>
-						<p class="subheader paragraph" style="color: white;">Link Your Social Media Accounts:</p>
+						<p class="subheader" style="color: white;">Link Your Social Media Accounts:</p>
 						</br>
 						</br>
 						<div class="row">
 							<div class="col-sm-12 col-md-4">
-								Music:
-								</br>
-								
-								</br>
-									
-								</br>
+								<img class="img-rounded img-responsive center-block"  src="facebook.png" align="center"width="100" height="100"></img>
 							</div>
 							<div class="col-sm-12 col-md-4">
-								Food:
-								</br>
-								
-								</br>
-								
-								</br>
+								<img class="img-rounded img-responsive center-block"  src="linkedin.png" align="center"width="100" height="100"></img>
 							</div>
 							<div class="col-sm-12 col-md-4">
-								Entertainment:
-								</br>
-								
-								</br>
-								
-								</br>
+								<img class="img-rounded img-responsive center-block"  src="pinterest.png" align="center"width="100" height="100"></img>
+							</div>
+						</div>
+						</br>
+						</br>
+						</br>
+						<div class="row">
+							<div class="col-sm-12 col-md-4">
+								<img class="img-rounded img-responsive center-block"  src="foursquare.png" align="center"width="100" height="100"></img>
+							</div>
+							<div class="col-sm-12 col-md-4">
+								<img class="img-rounded img-responsive center-block"  src="instagram.png" align="center"width="100" height="100"></img>
+							</div>
+							<div class="col-sm-12 col-md-4">
+								<img class="img-rounded img-responsive center-block"  src="twitter.png" align="center"width="100" height="100"></img>
 							</div>
 						</div>
 

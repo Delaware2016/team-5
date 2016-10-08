@@ -68,7 +68,7 @@
 						<br>
 						<!-- <a href="process.php" name="submit" class="button">Register</a> -->
 						<input type="submit" class="button" value="Login"> <!-- sends to database -->
-						<p style="font-size: 18px; color: white;">New user? <a  href="homepage.html" color="#ffff00"><span style="color:yellow">Click here</span></a>
+						<p style="font-size: 18px; color: white;">New user? <a  href="accounts.php" color="#ffff00"><span style="color:yellow">Click here</span></a>
 						
 						<br>
 						<p> </p>
