@@ -165,7 +165,7 @@
 						</br>
 						</br>
 						</br>
-						<input type="submit" class="button" value="Create Profile">
+						<input type="submit" class="button" value="Create">
 						<br>
 						<p> </p>
 						<!--

@@ -137,7 +137,7 @@
 						</br>
 						</br>
 						</br>
-						<input type="submit" class="button" value="Edit Profile">
+						<input type="submit" class="button" value="Edit">
 						<br>
 						<p> </p>
 						<!--
