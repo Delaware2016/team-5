@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+<<<<<<< HEAD
 		<title>Hackathon</title>'
+=======
+		<title>Hackathon</title>'
+
 		<link href="favicon.ico" rel="icon" type="image/x-icon" />
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
