@@ -5,7 +5,7 @@
 		<title>Hackathon</title>'
 =======
 		<title>Hackathon</title>'
-
+>>>>>>> c80035bbbc03705c94fd2ae94253868f1c9439a2
 		<link href="favicon.ico" rel="icon" type="image/x-icon" />
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
